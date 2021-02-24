@@ -1,0 +1,14 @@
+Day,Weight,Eating,DayName
+1,145,Alone,Monday
+2,145,With friends,Tuesday
+3,147,With friends,Wednesday
+4,149,With family,Thursday
+5,150,Alone,Friday
+6,149,Alone,Saturday
+7,148,Alone,Sunday
+1,147,With friends,Monday
+2,148,With friends,Tuesday
+3,150,With friends,Wednesday
+4,151,With family,Thursday
+5,151,Alone,Friday
+6,150,Alone,Saturday

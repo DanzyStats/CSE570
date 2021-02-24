@@ -1,0 +1,13 @@
+<comment>
+<ID>1</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>128</linkedArticle>
+<answers>0</answers>
+<author>Anthony Alan </author>
+<content>
+And what would the additional tax money be used for? Just another reason why I never shop or even visit Berkeley for any reason. Too damn socialist.
+</content>
+<likes>0</likes>
+</comment>
+

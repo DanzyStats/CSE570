@@ -1,0 +1,71 @@
+<comment>
+<ID>1</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>99</linkedArticle>
+<author>zrants</author>
+<rank>4741</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+Alvin Toffler is credited with introducing the concept of Future Shock in a book with that Title in 1970. We are experiencing first hand what the author warned us of when he wrote, “Future shock is the shattering stress and disorientation that we induce in individuals by subjecting them to too much change in too short a time.”.
+Too much traffic leads the list of frustrations. We can't do much about diseases and wars, or the cost of gas or who gets nominated to run for President of the United... » more
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>99</linkedArticle>
+<author>larrybob</author>
+<rank>18942</rank>
+<likes>2</likes>
+<answers>1</answers>
+<content>
+ Who is this "we" you talk of? Everyone in San Francisco is a pedestrian at some point. Nobody in their right mind thinks that Prop L is going to reduce traffic. Since you are putting out the pro-L millionaire-funded websites, here's the No on L site: http://www.nogridlocksf.com/
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>99</linkedArticle>
+<author>peternatural</author>
+<rank>6827</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Re: prop G. If your plans change unexpectedly and you need to sell the building you just bought, and the thought of paying a 24% tax is giving you a heart attack, rest easy. Just sell the building for the same price you bought it for (or less), and the tax won't apply. That was easy.
+</content>
+</comment>
+
+<comment>
+<ID>4</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>99</linkedArticle>
+<author>sfreason</author>
+<rank>2586</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Stupid to vote on so many issues by ballot. Why do we bother with a Bd. or Supervisors, if all the hard decisions are done by ballot. We either need to revamp the initiative process, so less is decided that way, or we should cut the Bd's salary in half.
+</content>
+</comment>
+
+<comment>
+<ID>5</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>99</linkedArticle>
+<author>crab_apple</author>
+<rank>93</rank>
+<likes>1</likes>
+<answers>4</answers>
+<content>
+ I vote the latter.
+</content>
+</comment>
+

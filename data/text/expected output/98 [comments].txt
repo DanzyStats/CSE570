@@ -1,0 +1,46 @@
+<comment>
+<ID>1</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>98</linkedArticle>
+<author>force2drinkswil</author>
+<rank>232</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+Wake me when there is a new beer tax
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>98</linkedArticle>
+<author>richmondman</author>
+<rank>1742</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+This a BS measure. NO new money will go to "obesity programs". Prop E money will replace other money which will be diverted for other things.
+Also, the BOS want to make selling bottled water illegal; first, on City property, eventually, everywhere. Now this 2-cent per ounce tax on the alternative is a real potential money-maker. And who says they are complete idiots (besides me)?
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>98</linkedArticle>
+<author>friscosf</author>
+<rank>4855</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+Ask the No on E campaign how much money they're using to Bribe David Campos to support them
+It probably didn't take much
+CAMPOS SELLS OUT !!!
+(again)
+</content>
+</comment>
+

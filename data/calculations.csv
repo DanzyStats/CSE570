@@ -1,0 +1,98 @@
+﻿Relationship,Very Strong (VS),Strong (SS),Medium (M),Low (LL),Very Low (VL),No Causality (NC),Unsure (U),Entropy
+Quality of Social Factor -> Smart City (+),4,6,0,0,0,0,0,0.970950594
+Stakeholder Engagement In Governance -> Smart City (+),7,2,1,0,0,0,0,1.156779649
+Unemployment Rate -> Poverty Rate (+),7,2,1,0,0,0,0,1.156779649
+Quality of Life -> Smart City (+),7,2,1,0,0,0,0,1.156779649
+Road Traffic Intensity -> Gas Consumption (+),6,3,1,0,0,0,0,1.295461844
+Percentage of Renewable Energy -> Ecological Sustainability (+),3,6,1,0,0,0,0,1.295461844
+Road Traffics Intensity -> Pollution (+),6,3,1,0,0,0,0,1.295461844
+Public Transit System  Accessibility ->  Mobility (+),3,6,1,0,0,0,0,1.295461844
+Motor Vehicle Density -> Air Pollution (+),6,3,1,0,0,0,0,1.295461844
+Motor Vehicle Density -> Road Traffic Intensity (+),6,3,1,0,0,0,0,1.295461844
+Road Density -> Mobility (+),3,6,1,0,0,0,0,1.295461844
+Population Growth -> Waste Production (+),6,3,1,0,0,0,0,1.295461844
+Presence of Regulation -> Stakeholder Engagement in  Governance (+),5,1,4,0,0,0,0,1.360964047
+Ecological Sustainability -> Quality of life (+),5,4,1,0,0,0,0,1.360964047
+Health Index -> Quality of life (+),5,4,1,0,0,0,0,1.360964047
+Motor Vehicle Density -> Pollution (-),4,5,1,0,0,0,0,1.360964047
+Gas Consumption -> Pollution (+),4,5,1,0,0,0,0,1.360964047
+Use of Public Transportation -> Road Traffic Intensity (-),4,5,1,0,0,0,0,1.360964047
+Livabilty -> Smart City (+),4,5,1,0,0,0,0,1.360964047
+Innovation Index -> Tourism Diversity (+),0,2,6,2,0,0,0,1.370950594
+Economic Growth -> Quality Of Life (+),6,2,2,0,0,0,0,1.370950594
+Quality of Waste Management -> Ecological Sustainability (+),5,3,2,0,0,0,0,1.485475297
+Industrial Diversity -> Poverty Rate (-),3,2,5,0,0,0,0,1.485475297
+Tourism Diversity -> Economic Growth (+),5,2,3,0,0,0,0,1.485475297
+Education Index -> Smart City (+),5,2,3,0,0,0,0,1.485475297
+Resource Diversity -> Investment Rate (+),2,5,3,0,0,0,0,1.485475297
+Livability ->Quality of Life (+),3,5,2,0,0,0,0,1.485475297
+Information Technology -> Use of Technology (+),3,5,2,0,0,0,0,1.485475297
+Air Pollution -> Pollution (+),3,5,2,0,0,0,0,1.485475297
+Stakehoder Engangement in Governance -> Quality of Public Service (+),5,2,3,0,0,0,0,1.485475297
+Industrial Diversity -> Economic Growth (+),4,4,2,0,0,0,0,1.521928095
+Ecological Sustainability -> Smart City (+),4,4,2,0,0,0,0,1.521928095
+Green Space Ratio -> Ecological Sustainability (+),4,2,4,0,0,0,0,1.521928095
+Investment Rate -> Industrial Diversity (+),4,2,4,0,0,0,0,1.521928095
+Innovation Index -> Stakeholder Engagement  (+),2,4,4,0,0,0,0,1.521928095
+Quality of The Infrastructure -> Smart City (+),4,2,4,0,0,0,0,1.521928095
+Ecological Sustainability -> Livability (+),4,4,2,0,0,0,0,1.521928095
+Green Space Ratio -> Pollution (-),2,4,4,0,0,0,0,1.521928095
+Ratio of Temporary Waste -> Waste Infrastructure Capacity (+),3,4,3,0,0,0,0,1.570950594
+Gas Consumption -> Ecological Sustainability (-),4,3,3,0,0,0,0,1.570950594
+Demand For Internet Access -> Network Coverage (+),3,4,3,0,0,0,0,1.570950594
+Ecological Sustainability -> Waste Production (-),3,3,4,0,0,0,0,1.570950594
+Presence of Small Businesses -> Industrial Diversity (+),4,3,3,0,0,0,0,1.570950594
+Economic Growth -> Investment Rate (+),3,4,3,0,0,0,0,1.570950594
+Use of Technology -> Smart City (+),3,3,4,0,0,0,0,1.570950594
+Economic Growth -> Unemployment Rate (-),3,4,3,0,0,0,0,1.570950594
+Education Index -> Quality of Social Factors (+),4,3,3,0,0,0,0,1.570950594
+Presence of Urban open Space -> Green Space Ratio (+),1,6,2,0,0,1,0,1.570950594
+Network Coverage -> Information Technology (+),3,1,5,1,0,0,0,1.685475297
+Investment Rate -> Tourism Diversity (+),1,5,3,1,0,0,0,1.685475297
+Innovation Index -> Industrial Diversity (+),3,5,1,0,1,0,0,1.685475297
+Stakeholder Engagement in Governance -> Ecological Sustainability (+),3,5,1,0,0,0,1,1.685475297
+Pedestrian Ratio -> Mobility (-),3,5,1,1,0,0,0,1.685475297
+Road Traffic Intensity -> Mobility (+),5,3,1,0,0,1,0,1.685475297
+Investment Rate -> Innovation Index (+),3,5,1,0,0,0,1,1.685475297
+Pollution -> Ecological Sustainability (-),3,5,1,0,0,0,1,1.685475297
+Stakeholder Participants -> Stakeholder Engagement in Governance (+),4,4,1,0,0,0,1,1.721928095
+Information Technology -> Demand For Internet Access (+),4,4,1,0,0,0,1,1.721928095
+Economic Growth -> Smart City (+),4,4,1,0,0,0,1,1.721928095
+Resource Diversity -> Ecological Sustainability (+),1,4,4,1,0,0,0,1.721928095
+Lack of Integration -> Information Technology (-),5,2,2,1,0,0,0,1.760964047
+Ecological Sustainability -> Presence of Urban Space (+),2,2,5,1,0,0,0,1.760964047
+Resource Diversity -> Economic Growth (+),2,5,2,1,0,0,0,1.760964047
+Quality of Leadership -> Stakeholder Engagement in Governance (+),5,2,2,1,0,0,0,1.760964047
+Network Coverage -> Lack of Integration (-),2,2,5,1,0,0,0,1.760964047
+Waste Infrastructure Capacity -> Quality of Waste Management (+),4,2,3,0,0,1,0,1.846439345
+Stakeholder Engagement -> Economic Growth (+),4,1,3,2,0,0,0,1.846439345
+Poverty Rate -> Economic Growth (-),2,4,3,1,0,0,0,1.846439345
+Resource Diversity -> Smart City (+),2,4,3,1,0,0,0,1.846439345
+Population Growth -> Ecological Sustainability (-),2,4,3,0,1,0,0,1.846439345
+Quality of Public Service -> Quality of The Infrastructure (+),2,3,4,1,0,0,0,1.846439345
+Quality of Public Service -> Livability (+),4,2,3,1,0,0,0,1.846439345
+Quality of Waste Management -> Ratio of Temporary Waste Disposal (+),4,3,2,0,0,0,1,1.846439345
+Public Transit System Accessibility -> Gas Consumption (-),3,4,2,0,0,1,0,1.846439345
+Industrial Diversity --> Waste Production (+),3,4,2,1,0,0,0,1.846439345
+Mobility -> Motor Vehicle Density (-),3,4,1,2,0,0,0,1.846439345
+Information Technology -> Smart City (+),3,3,3,1,0,0,0,1.895461844
+Public Transit System Accessibility -> Road Traffic Intensity (-),3,3,3,1,0,0,0,1.895461844
+Limited Bandwidth Capacity -> Information Technology (-),2,2,4,2,0,0,0,1.921928095
+Use of Public Transportation -> Commute Duration (+),5,1,2,1,0,1,0,1.960964047
+Presensence of Large Companies -> Industrial Diversity (+),1,1,5,2,0,1,0,1.960964047
+Waste Production  -> Quality of Waste Management (-),3,3,2,2,0,0,0,1.970950594
+Livability -> Mobility (+),3,3,2,2,0,0,0,1.970950594
+Stakeholder Participation  -> Presence of Regulation (+),3,2,3,0,0,2,0,1.970950594
+Stakeholder Engagement in Governance -> Lack of evaluation (-),0,2,2,3,0,3,0,1.970950594
+Conventional Technology -> Use of technology (+),1,4,3,0,0,1,1,2.046439345
+Tourism Diversity -> Unemployment Rate (-),1,4,3,0,1,1,0,2.046439345
+Water Pollution -> Pollution (+),3,4,1,1,0,0,1,2.046439345
+Innovation Index -> Resource Diversity (+),1,4,3,1,0,1,0,2.046439345
+Mobility -> Use of Public Transportation (+),3,4,1,1,0,1,0,2.046439345
+Commute Duration -> Mobility (-),3,4,1,1,0,1,0,2.046439345
+Stakeholder Engagement In Governance -> Resource Diversity (+),2,1,4,2,0,1,0,2.121928095
+Limited Bandwidth Capacity -> Network Coverage (-),1,2,4,1,0,2,0,2.121928095
+Livability -> Health Index (+),3,3,2,1,0,1,0,2.170950594
+Lack of Evaluation -> Stakeholder Participation (-),2,3,3,0,1,1,0,2.170950594
+Waste Infrastructure Capacity -> Waste Production (-),3,2,2,2,1,0,0,2.246439345
+Percentage of Renewable Energy -> Gas Consumption (-),2,4,1,1,1,0,1,2.321928095

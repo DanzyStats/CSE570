@@ -1,0 +1,90 @@
+<comment>
+<ID>1</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>96</linkedArticle>
+<author>sfparkripoff</author>
+<rank>4359</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Mayor Lee is not worried about Prop L?
+Maybe Mayor Lee should start paying attention to the SFMTA's flagrant misuse of our tax dollars and the fact that his policies puts greater value on rights of tourists and speculators than the people who actually live here.
+Masonic - https://www.youtube.com/watch?v=8Hr6HCBmesg
+Mission - https://www.youtube.com/watch?v=V_doqoOzeSk
+Polk - http://www.youtube.com/watch?v=S2DX68nQqyo
+Noe Valley - https://www.youtube.com/watch?v=K_9OI0uhRxw&feature=c4-feed-... » more
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>96</linkedArticle>
+<author>zrants</author>
+<rank>4741</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+When you say the Mayor's priorities are propositions A, C, J, and K, does that mean he supports these initiatives? We know he supports A and C, but how he feels about the J and K is unclear in this report.
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>96</linkedArticle>
+<author>gardenin94103</author>
+<rank>5297</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+What do you guys expect? Willie Brown doesn't want his minion to take a stand against these loudmouth car-worshiping Prop L crazies, out of some misguided belief the electorate still skews old and white and therefore pro-car. I think even the older whiter people in this town see the foolish futility in putting in a non-binding vote that supports some parking-garage developers and doesn't do much else, however.
+</content>
+</comment>
+
+<comment>
+<ID>4</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>96</linkedArticle>
+<author>userbo</author>
+<rank>1076</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+I have a lot of respect for Mayor Lee.
+People who dislike the way he runs things don't remember how it used to be...
+</content>
+</comment>
+
+<comment>
+<ID>5</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>96</linkedArticle>
+<author>barryeisenberg</author>
+<rank>10854</rank>
+<likes>1</likes>
+<answers>4</answers>
+<content>
+ He's going to be a one term mayor, watch and see, and this ballot will prove to be the turning point.
+</content>
+</comment>
+
+<comment>
+<ID>6</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>96</linkedArticle>
+<author>CitiLover</author>
+<rank>1019</rank>
+<likes>0</likes>
+<answers>5</answers>
+<content>
+ Isn't he already in his second term? Maybe the first term didn't count because it was only a partial term.
+</content>
+</comment>
+

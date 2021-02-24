@@ -1,0 +1,266 @@
+<comment>
+<ID>1</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>jes merrell</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+If you really enjoy the taste and buzz of an ice cold Coke do try the real sugar formula found in the product bottled in Mexico. It is now available in limited fashion here in USA. True Coca-Cola flavor!
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>Jordan Pieper</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+BS! Author needs at least an elementary understanding of industry before writing. The packaging cost more than the product, i.e., the smaller the package the higher the cost. If there was ever an example of in-elastic demand it would be soft drinks. It is like people who will drive 10 miles to save $.02 on a gallon of gas. Small packaging is a loser, if it was not it would have been done a long time ago....
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>Kathy Caldwell</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+And frankly, Sandy Douglas championed the big package 20 oz change. But he was and is a smart cookie and learns as he goes. He hasn't survived this long by accident.
+</content>
+</comment>
+
+<comment>
+<ID>4</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>Kathy Caldwell</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+I worked at CCE during the "New Coke" introduction. It cost me a bundle in bonus and I will never forget my employees harassed as they did their job. In a chuckle memory an elder woman with a cain was berating my merchandiser-an entry level position. Finally in exasperation he defended himself by saying "M'am if I made those decisions would I be on my knees filling the shelves?" We lost many good hands due to store harassment, unfortunately.When 20oz PET was the latest and greatest, Nielsen rankings were by oz. I expressed my misgivings. It was just too much for the average consumer and we pushed school contracts to the higher PET for profitability to offset fixed cost $mm upfront payments.Our share by consumption soared in the short term and a beloved boss reminded me of my misgivings. He was right, then. I have lost touch with them but would like to reconnect and say "I told you so."
+</content>
+</comment>
+
+<comment>
+<ID>5</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>ken rodgers</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+Maybe I'm missing something but if a soda is zero calories, does it matter how big the bottle is? Unless my math teacher way back in high school misled me, zero equals zero.
+</content>
+</comment>
+
+<comment>
+<ID>6</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>judy smith</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+Headline should be, "Less for More." So sick of companies downsizing products, often accompanied with upping the price. Dutch Boy paint takes the prize from my standpoint, building their promotions on what they openly call a "gallon sale" when their cans have been shrunk to something like 3 quarts.
+</content>
+</comment>
+
+<comment>
+<ID>7</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>6</answers>
+<author>Kathy Caldwell</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+In the soft drink industry, as others, packaging is the bulk of the cost. The cost of liquid, syrup etc is minuscule compared to can/PET bodies. What matters for Nielsen rankings is consumption per drink. So naturally the successful business model increases consumption while minimizing production costs.Delivery warehouse to shelf is enormously expensive.  Ergo, each trip has relatively fixed costs vs ounces per consumer. It's pretty complex, yet intuitive in the soft drink industry.
+</content>
+</comment>
+
+<comment>
+<ID>8</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>JOHN BURNS</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+Berkeley CA isn't exactly a template for the sentiments of the rest of the country; it is an excellent proxy for out of touch nut job Woodstock wannabes.
+</content>
+</comment>
+
+<comment>
+<ID>9</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>Tom Wood</author>
+<rank>5</rank>
+<date>Nov 19, 2014</date>
+<content>
+As counter-intuitive as it might seem, I think soda sweetened with real sugar may reduce obesity. The fattest people I know drink diet soda and they have not lost weight in the last 20 years. Hunger is caused not only by needed calories but also shrinking stomach size. Diet soda increases stomach pressure for a short term yet when the stomach pressure decreases, a feeling of hunger will return. If a real sugar vs artificial sweetener is used the body's system reacts with less need for additional calories. Not all sweeteners are created equal. Artificial sweeteners with no accompanying calories might be less satisfying in the longer term causing more eating to resolve the craving.
+</content>
+</comment>
+
+<comment>
+<ID>10</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>9</answers>
+<author>Victor Cook</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+@Tom Wood Wow. All I saw in your comment was psuedo-science, causation, assumptions, and a bare minimum of scientific knowledge.Try educating yourself about hunger from wikipedia and get a sense of what the RESEARCH says - not your unscientific anecdotal experiences - which are completely wrong, by the way. 
+</content>
+</comment>
+
+<comment>
+<ID>11</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>10</answers>
+<author>Tom Wood</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+@Victor CookWow Victor. I assume based on your comment that you didn't read the wikipedia article on hunger.http://en.wikipedia.org/wiki/Hunger_%28motivational_state%29If you looked more into what the research said, motivational hunger (which is why most people eat) is not the same as lack of food.Glucose is a simple sugar (monosaccharide) that is easily used for energy and is also stored in muscles and liver as glycogen.Fructose is also a monosaccharide yet is not the preferred energy source for the muscles or the brain. Chronically high intake of dietary fructose appears to behave more like fat than carbohydrates. High fructose corn syrup is cheaper but not the same as sucrose.Sucrose (table sugar) is a disaccharide that is broken down into glucose and fructose. I admit that Wikipedia is not the ideal scientific journal but I also didn't see any scientific research cited in your comment. Maybe you work for a company that creates artificial sweeteners.
+</content>
+</comment>
+
+<comment>
+<ID>12</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>Steve Paul</author>
+<rank>5</rank>
+<date>Nov 19, 2014</date>
+<content>
+Small container size in the US is normal size in Europe and elsewhereWhat will we do with the 10 Big Gulp cup holders in today's SUVs and Minivans??Trend toward deposit laws make small portion sizes less economic for the consumer...so what's more important...recycling incentives or smaller portion size?
+</content>
+</comment>
+
+<comment>
+<ID>13</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>Rocco Papalia</author>
+<rank>5</rank>
+<date>Nov 19, 2014</date>
+<content>
+Where's Pepsi?
+</content>
+</comment>
+
+<comment>
+<ID>14</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>13</answers>
+<author>Kathy Caldwell</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+In the same boat.
+</content>
+</comment>
+
+<comment>
+<ID>15</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>Robert B Miller</author>
+<rank>5</rank>
+<date>Nov 19, 2014</date>
+<content>
+Omitted from the article is the size of coke bottles in the 1950s and 60s. They were smaller than 16 ounces, though I can't remember how much. 
+</content>
+</comment>
+
+<comment>
+<ID>16</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>15</answers>
+<author>JLeslie Walker</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+The iconic Coke of that era was ....... 6 oz.
+</content>
+</comment>
+
+<comment>
+<ID>17</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>15</answers>
+<author>Kathy Caldwell</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+6 oz, 10 ounce and then upsized to 16 ounce returnable for the same reasons noted above (oz/consumption). But it was a labor disaster. As I recall a case of 16 oz was 35# each. Then the returns, magnet for bottle deposits, higher production costs (line change for sterilization, etc). A pure disaster for display building with labor costs through the roof.Recyclable can bodies at 12oz were a boom and displayed easily. Plus no return truck load of empty bottles to be off loaded.
+</content>
+</comment>
+
+<comment>
+<ID>18</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>17</answers>
+<author>Diane Weinberg</author>
+<rank>5</rank>
+<date>Nov 20, 2014</date>
+<content>
+@Kathy CaldwellThank you for your interesting comments.
+</content>
+</comment>
+
+<comment>
+<ID>19</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>86</linkedArticle>
+<answers>0</answers>
+<author>cybercom systems</author>
+<rank>5</rank>
+<date>Nov 19, 2014</date>
+<content>
+The optimum serving size is zero oz. Haven't you heard, sugar is the enemy, as demonstrated by the obesity and diabetes epidemic.
+</content>
+</comment>
+

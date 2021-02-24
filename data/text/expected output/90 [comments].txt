@@ -1,0 +1,52 @@
+<comment>
+<ID>1</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>90</linkedArticle>
+<answers>0</answers>
+<author>Brady Gallegos</author>
+<rank>5</rank>
+<date>Sep 30, 2014</date>
+<content>
+How hard is it for a parent to tell their child no to something unhealthy? Too many parents want to be their childs friend and not their parent, it shouldn't be up to the company to take action for other people's kids.
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>90</linkedArticle>
+<answers>0</answers>
+<author>Ron Grandmaison</author>
+<rank>5</rank>
+<date>Sep 24, 2014</date>
+<content>
+I don't like the diet drinks...too much stuff that will harm your body. I would like to drink sugar drinks, but with 45 mg of sugar or fructoseina can of soda pop I'm afraid to drink that too. So, I drink beer instead!
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>90</linkedArticle>
+<answers>0</answers>
+<author>Sally Edelstein</author>
+<rank>5</rank>
+<date>Sep 24, 2014</date>
+<content>
+The
+ American Dream may have been downsized but Americans ever expanding 
+waistlines have clearly not. Blame in no small part can go to our 
+penchant for the super-sizing of our soft drinks. Long before Americans 
+began drinking 13.5 billions of carbonated drinks every year, soda was 
+something enjoyed in the confines of the local soda fountain. When soda 
+became available for home consumption, the real Mad Men of mid century 
+Madison Avenue began hawking soda as a family drink"so good so wholesome
+ for everyone including the tiniest of tots." For a collection of 
+vintage ads whose message are as dated as the quaint imagery please 
+visit:http://envisioningtheamericandream.com/2013/03/11/the-big-gulp/
+</content>
+</comment>
+

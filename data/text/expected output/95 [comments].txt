@@ -1,0 +1,695 @@
+<comment>
+<ID>1</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>MrE2me</author>
+<rank>1802</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+This "ray of progressive hope" is positioned beautifully next to the one about, the death of global warming action. 2014 elections, the gift that keeps on giving...Has anyone noticed what a beautiful morning/day is unfolding? Not too hot, not too cold...
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>MrE2me</author>
+<rank>1802</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+Translation: "People, please, Its time to crawl out of your fetal positioning"...
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>suzlipman</author>
+<rank>22782</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Who says a soda tax is progressive?
+</content>
+</comment>
+
+<comment>
+<ID>4</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>HearstCritic</author>
+<rank>1223</rank>
+<likes>2</likes>
+<answers>3</answers>
+<content>
+Overweight people in denial
+</content>
+</comment>
+
+<comment>
+<ID>5</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>kasha</author>
+<rank>134</rank>
+<likes>5</likes>
+<answers>0</answers>
+<content>
+Just let SF's "progressives" run everything through the government. It worked so well in the Soviet Union.
+</content>
+</comment>
+
+<comment>
+<ID>6</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>woodturner1946</author>
+<rank>329</rank>
+<likes>1</likes>
+<answers>5</answers>
+<content>
+ not to mention the worlds best socialist country...Venezuela...the socialist paradise!
+</content>
+</comment>
+
+<comment>
+<ID>7</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>PrestoSF</author>
+<rank>3061</rank>
+<likes>4</likes>
+<answers>0</answers>
+<content>
+Nonsense. Tax and bond measures (other than sales tax which is non-discriminatory) and spending measures pass consistently in SF since so many of the voters are renters. The failures are because these measures over-stepped rational behavior. Maybe the recent overturning of the last anti-landlord fee idea had some impact. Chiu and Campos were practically a coin flip, but Campos was more aligned with progressive missteps. SF is clearly saying they will reject some egregious nonsense measures,... » more
+</content>
+</comment>
+
+<comment>
+<ID>8</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>sf_conservative</author>
+<rank>95</rank>
+<likes>12</likes>
+<answers>0</answers>
+<content>
+"Despite election losses, S.F. progressives scored gains"
+And Mrs. Lincoln enjoyed the show at Ford's theatre.
+</content>
+</comment>
+
+<comment>
+<ID>9</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>flaneur415</author>
+<rank>5299</rank>
+<likes>12</likes>
+<answers>0</answers>
+<content>
+Can you imagine all the Boarded Up storefronts and restaurants when the $15.oo Minimum Wage takes effect?? So sad to see San Francisco become Pyongyang by the Bay, who does the Dead Bell toll for??? It tolls for Thee San Francisco!!!
+</content>
+</comment>
+
+<comment>
+<ID>10</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>sf_conservative</author>
+<rank>95</rank>
+<likes>3</likes>
+<answers>9</answers>
+<content>
+At which point the BOS will say: "how come we don't have any big box stores?"
+</content>
+</comment>
+
+<comment>
+<ID>11</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>kasha</author>
+<rank>134</rank>
+<likes>3</likes>
+<answers>9</answers>
+<content>
+ The funny part is that the $15 minimum wage will attract more Central American nationals to move to San Francisco and CA, while at the same time causing American companies to move to Mexico where the federal minimum wage is 90 cents an hour.
+</content>
+</comment>
+
+<comment>
+<ID>12</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>tommybeauchamp</author>
+<rank>750</rank>
+<likes>5</likes>
+<answers>0</answers>
+<content>
+Yes, the election results took on quite a different tone in San Francisco as compared to the rest of the nation. But, of course, it was everyone else, outside of San Francisco, who has lost their way.
+</content>
+</comment>
+
+<comment>
+<ID>13</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>OhShush</author>
+<rank>16</rank>
+<likes>2</likes>
+<answers>12</answers>
+<content>
+ ~ Nationwide, progressive issues did very well when they were on the ballot, even where conservative politicians were favored. When people vote for things and also for those who oppose those things, what way would you call that?
+</content>
+</comment>
+
+<comment>
+<ID>14</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>sun_and_wind</author>
+<rank>424</rank>
+<likes>9</likes>
+<answers>0</answers>
+<content>
+I just want to ask a fair question to the supporters of Prop G. Some 50,000 S.F. single family homes have the so-called in-law unit, as many home owners need the extra income to subsidize the high housing cost. As you know, this type of housing is subjected to the sales tax under Prop G. Let say Mr. Joe bought a $80o,000 home but within six months he lost his job and force to sell. Assuming he can sell his home for 10% more at $880,000 but he has to pay $211,000 in sales tax. How is this... » more
+</content>
+</comment>
+
+<comment>
+<ID>15</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>Jusher2</author>
+<rank>33</rank>
+<likes>3</likes>
+<answers>14</answers>
+<content>
+ And what you claim is not remotely true... Any owner occupied property, including units with in-law units was exempt. The anti-G forces basically pulled the wool over people's eyes.
+</content>
+</comment>
+
+<comment>
+<ID>16</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>tuttut</author>
+<rank>591</rank>
+<likes>4</likes>
+<answers>0</answers>
+<content>
+Why is Mary Jung -the real estate lobbyist- allowed to slant the writing of PROP G - on all ballots and in the official voter information guide? Tim Redmond has the answer:
+"Prop G. The campaign manager, Quintin Mecke, told me by email that he had informed the contractor doing the card (50+1 Strategies, which also is doing the Chiu campaign) that the tagline should read:
+Stop the evictions!
+Instead, it says:
+Additional Transfer Tax on Residential Property
+The distinction has played a huge... » more
+</content>
+</comment>
+
+<comment>
+<ID>17</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>OhShush</author>
+<rank>16</rank>
+<likes>3</likes>
+<answers>16</answers>
+<content>
+ ~ Now, that's journalism. Don't see much of that around here, do we?
+</content>
+</comment>
+
+<comment>
+<ID>18</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>tuttut</author>
+<rank>591</rank>
+<likes>0</likes>
+<answers>-1</answers>
+<content>
+ Apparently, you represent carpetbagging profiteers who'll gladly bounce people from their homes (88year old lady recently happened to blocks from me) if the dollars add up. Prop G was to make those numbers not add up - the target is clearly flippers - not job creators - not anyone who stabilizes housing nor builds new housing. What the hell is your belief system? The ones benefiting are self-interested investors not working, paying, citizens who pay their taxes and form a community.
+</content>
+</comment>
+
+<comment>
+<ID>19</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>sf_landlord</author>
+<rank>182</rank>
+<likes>18</likes>
+<answers>0</answers>
+<content>
+Direct democracy can be a scary thing. The fact that over 40% of voters tried to vote an extreme tax onto a small subset of the population is crazy. Yes...Prop G probably would have been thrown out in court but this city can sure have a socialist bent at times. Thank goodness we have the Constitution to protect our rights and property.
+</content>
+</comment>
+
+<comment>
+<ID>20</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>MissionRosalind</author>
+<rank>161</rank>
+<likes>13</likes>
+<answers>0</answers>
+<content>
+SF-ProgressIveSocialiSts all should be big fans of Bernie Madoff, as much as they would love to think otherwise. After all, Madoff stole money from people who were trying to save and gave it to people who were absolutely going to spend it.
+</content>
+</comment>
+
+<comment>
+<ID>21</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>OhShush</author>
+<rank>16</rank>
+<likes>2</likes>
+<answers>20</answers>
+<content>
+ ~ Was it your intention to use random capitalization for profane name-calling?
+</content>
+</comment>
+
+<comment>
+<ID>22</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>maxxpup</author>
+<rank>175</rank>
+<likes>23</likes>
+<answers>0</answers>
+<content>
+mocking and deriding SF progressives to their face is great fun. they are so accustomed to people swallowing their BS, they become apoplectic when encountering a contrary POV.
+highly recommended.
+</content>
+</comment>
+
+<comment>
+<ID>23</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>OhShush</author>
+<rank>16</rank>
+<likes>2</likes>
+<answers>22</answers>
+<content>
+ ~ Seems to me that such boorishness would make one The Least Interesting Man In The World, even it's just the world of beer commercials.
+</content>
+</comment>
+
+<comment>
+<ID>24</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>Alex_Covinius</author>
+<rank>4903</rank>
+<likes>15</likes>
+<answers>0</answers>
+<content>
+SF "progressives" are the Tea Party on the far left. Neither are reality based and devoid of anything that can be considered "compromise."
+</content>
+</comment>
+
+<comment>
+<ID>25</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>OhShush</author>
+<rank>16</rank>
+<likes>2</likes>
+<answers>24</answers>
+<content>
+ ~ Is this some new Fox News talking point or something? It's suddenly in a bunch of comments, despite making no sense. The Tea Party is an astroturf group funded by the Koch Bros.; there is no such equivalent for progressives, with or without sneer quotes. (No, Tom Steyer or George Souros don't come anywhere close.)
+</content>
+</comment>
+
+<comment>
+<ID>26</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>Alex_Covinius</author>
+<rank>4903</rank>
+<likes>1</likes>
+<answers>25</answers>
+<content>
+ I've worked with these "progressives" such as Chris Daly, Avalos, et al. They are a bunch of entitled angry white kids who wants to perform their societal experiments and when it all goes awry, they're gone to another town and for the rest of us to pick up the pieces. They are no different than the Tea Party that they want changes to their satisfaction and won't compromise for a reasonable solution. The "progressives" want everything free and think that ownership of property is... » more
+</content>
+</comment>
+
+<comment>
+<ID>27</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>eriks</author>
+<rank>4475</rank>
+<likes>4</likes>
+<answers>0</answers>
+<content>
+The irony of this article, when just a few weeks ago the Chronicle (in an article written by the same Heather Knight who contributed to this article) was talking about the death of the progressive movement in SF, once more proving that they know nothing about SF politics.
+</content>
+</comment>
+
+<comment>
+<ID>28</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>jeffsaltwater</author>
+<rank>1651</rank>
+<likes>10</likes>
+<answers>0</answers>
+<content>
+If you think everyone in the city is a liberal democrat then you are living five years in the past.
+</content>
+</comment>
+
+<comment>
+<ID>29</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>sf_landlord</author>
+<rank>182</rank>
+<likes>4</likes>
+<answers>28</answers>
+<content>
+ I'm offended to be called a liberal democrat.
+</content>
+</comment>
+
+<comment>
+<ID>30</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>oddib</author>
+<rank>1442</rank>
+<likes>2</likes>
+<answers>28</answers>
+<content>
+ I'm just glad the commenters here are not as representative of SF as they probably like to think.
+</content>
+</comment>
+
+<comment>
+<ID>31</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>sf_conservative</author>
+<rank>95</rank>
+<likes>13</likes>
+<answers>0</answers>
+<content>
+"Rosenthal argued that the defeats of Prop. E and Prop. G point to the insidious effect of big spending in campaigns — even in San Francisco, where voters like to think of themselves as too smart to be swayed by corporate cash."
+The problem with many progressives is they think they are too smart about everything and they refuse to consider any opinion other than their own.
+</content>
+</comment>
+
+<comment>
+<ID>32</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>oddib</author>
+<rank>1442</rank>
+<likes>4</likes>
+<answers>31</answers>
+<content>
+ Right, unlike those famously open-minded conservatives we all know about.
+</content>
+</comment>
+
+<comment>
+<ID>33</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>emilulz</author>
+<rank>363</rank>
+<likes>6</likes>
+<answers>0</answers>
+<content>
+A bunch of academics think the far-left isn't out of touch? You couldn't make this up!
+</content>
+</comment>
+
+<comment>
+<ID>34</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>JuniperoSerra</author>
+<rank>307</rank>
+<likes>11</likes>
+<answers>0</answers>
+<content>
+These half-baked pundits can spin it however they want but the fact remains that several really stupid ballot propositions lost.
+</content>
+</comment>
+
+<comment>
+<ID>35</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>Shpitzer</author>
+<rank>432</rank>
+<likes>17</likes>
+<answers>0</answers>
+<content>
+The prop G tax lost because it was a huge, unfair tax. It's that simple. It always amazes me when pundits so overanalyze they get twisted up in their own underwear.
+</content>
+</comment>
+
+<comment>
+<ID>36</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>Alex_Covinius</author>
+<rank>4903</rank>
+<likes>5</likes>
+<answers>35</answers>
+<content>
+ It would have been overturned by the courts.
+</content>
+</comment>
+
+<comment>
+<ID>37</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>Kingmaker</author>
+<rank>6377</rank>
+<likes>4</likes>
+<answers>0</answers>
+<content>
+Has anyone ever wondered why increasing the minimum wage is supported by conservatives and the business community? They've figured out that increasing the minimum wage: 1) takes those folks off the public welfare rolls; 2) removes them from the 100% subsidized sector of the affordable care act; and 3) allows businesses to raise their prices under the cover that they are paying their employees a higher wage. Of course, one way to keep cost stable is to hire less employees. So, raise prices... » more
+</content>
+</comment>
+
+<comment>
+<ID>38</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>Shpitzer</author>
+<rank>432</rank>
+<likes>6</likes>
+<answers>37</answers>
+<content>
+Where did you get the information that conservatives and the business community support the increase in the minimum wage, from a little birdie?
+</content>
+</comment>
+
+<comment>
+<ID>39</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>Kingmaker</author>
+<rank>6377</rank>
+<likes>1</likes>
+<answers>38</answers>
+<content>
+ Yes, a birdie called "Google". Please go ahead and research "republican support for minimum wage"
+</content>
+</comment>
+
+<comment>
+<ID>40</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>maxxpup</author>
+<rank>175</rank>
+<likes>19</likes>
+<answers>0</answers>
+<content>
+translation: morons double down on dystopian agenda.
+</content>
+</comment>
+
+<comment>
+<ID>41</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>MissionRosalind</author>
+<rank>161</rank>
+<likes>11</likes>
+<answers>0</answers>
+<content>
+Looks like the Chron is trying to grab former readers of the Bay Guardian. Too bad for Hearst that the BG was a FREE rag, unless the additional pageviews will make all the $0.00001 CPM ads on SFGate finally pay out. Yeah, right.
+</content>
+</comment>
+
+<comment>
+<ID>42</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>OhShush</author>
+<rank>16</rank>
+<likes>2</likes>
+<answers>41</answers>
+<content>
+ ~ This makes no sense. BTW, we've still got the East Bay Express over here and it's still excellent.
+</content>
+</comment>
+
+<comment>
+<ID>43</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>kennydojo1</author>
+<rank>2641</rank>
+<likes>14</likes>
+<answers>0</answers>
+<content>
+This article is comedy. It's as much "nah nah nah nah"/ fingers in the ears/ everything I know I learned a long time ago, as the Republicans calling a rather typical lame duck mid term result, where the ultimate result in Washington will only be more status quo gridlock, a "tsunami." Progressives lost G because it was really dumb. It would have taxed people who created housing. Seriously, a person who took an unliveable multi-unit building, fixed it up, and rented it out, CREATING HOUSING, would... » more
+</content>
+</comment>
+
+<comment>
+<ID>44</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>oddib</author>
+<rank>1442</rank>
+<likes>2</likes>
+<answers>43</answers>
+<content>
+ "Created housing" = buying housing solely to flip it, not to rent it out. Those are the only buyers that Prop G was targeting.
+</content>
+</comment>
+
+<comment>
+<ID>45</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>sf_landlord</author>
+<rank>182</rank>
+<likes>5</likes>
+<answers>44</answers>
+<content>
+ who cares if someone rents it out or not? Someone is going to be living there regardless. Or are tenants afraid of losing political power? Ya, that must be it.
+</content>
+</comment>
+
+<comment>
+<ID>46</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>kennydojo1</author>
+<rank>2641</rank>
+<likes>0</likes>
+<answers>44</answers>
+<content>
+wrong. It still would have hosed people who bought to rent out, up until five years had passed.
+</content>
+</comment>
+
+<comment>
+<ID>47</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>crab_apple</author>
+<rank>93</rank>
+<likes>14</likes>
+<answers>0</answers>
+<content>
+Notice how whenever the other side loses, they claim it's because they were outspent. They always seem to fail to see that sometimes their propositions just don't make sense or run counter to another's belief system.
+</content>
+</comment>
+
+<comment>
+<ID>48</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>maxxpup</author>
+<rank>175</rank>
+<likes>3</likes>
+<answers>47</answers>
+<content>
+ so 10 million in CTA $$$ had nothing to do with incumbent torlakson winning, despite not being endorsed by a single conservative, moderate or liberal CA newspaper?
+what color is the sky in your world?
+</content>
+</comment>
+
+<comment>
+<ID>49</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>95</linkedArticle>
+<author>Alex_Covinius</author>
+<rank>4903</rank>
+<likes>1</likes>
+<answers>47</answers>
+<content>
+ Correct. Both E and G are simple to understand just by looking at the numbers, regardless of the $$$ poured into defeating them.
+</content>
+</comment>
+

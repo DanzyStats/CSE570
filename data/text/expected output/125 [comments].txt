@@ -1,0 +1,26 @@
+<comment>
+<ID>1</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>125</linkedArticle>
+<answers>0</answers>
+<author>Human </author>
+<content>
+Cool. A consumption tax ... literally. A "regressive" tax done by "progressives". LOL. Awesome!! Go for it.
+</content>
+<likes>0</likes>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>125</linkedArticle>
+<answers>0</answers>
+<author>Sensus </author>
+<content>
+"Measure D will impose a 1-cent-per-ounce tax on the distribution of most sugar-sweetened beverages, raising an estimated $1 million to $2 million annually for the city's general fund." this is why the city wanted for this measure to pass. It has nothing to do with children's health.
+</content>
+<likes>0</likes>
+</comment>
+

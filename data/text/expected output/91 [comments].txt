@@ -1,0 +1,95 @@
+<comment>
+<ID>1</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>91</linkedArticle>
+<answers>0</answers>
+<author>Lee Zehrer</author>
+<rank>5</rank>
+<date>Aug 17, 2014</date>
+<content>
+This stuff is
+such scientific garbage…like vitamin water…or bottled water period. Whenever I’m
+in a restaurant I ask for the clean water, the water from the tap. (It drives
+my wife nuts but it’s such fun.)
+
+
+
+But there’s no
+underestimating the stupidity of the American public.
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>91</linkedArticle>
+<answers>1</answers>
+<author>Jorge Gonzalez</author>
+<rank>5</rank>
+<date>Aug 17, 2014</date>
+<content>
+@Lee Zehrer Since you ask for clean tap water, I take it you do not live in Toledo, Ohio?
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>91</linkedArticle>
+<answers>2</answers>
+<author>Lee Zehrer</author>
+<rank>5</rank>
+<date>Aug 17, 2014</date>
+<content>
+@Jorge Gonzalez@Lee Zehrer I was walking
+down a grungy back ally in Saigon a few years ago and noticed then filling up
+pallets of “pure spring water” bottles with a water hose. And don’t tell me
+that doesn’t happen in San Francisco or where ever…seal or no seal.
+</content>
+</comment>
+
+<comment>
+<ID>4</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>91</linkedArticle>
+<answers>3</answers>
+<author>Chuck Brown</author>
+<rank>5</rank>
+<date>Aug 17, 2014</date>
+<content>
+@Lee Zehrer@Jorge Gonzalez everything is conspiracy for some people. Lol You're sooo smart
+</content>
+</comment>
+
+<comment>
+<ID>5</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>91</linkedArticle>
+<answers>0</answers>
+<author>SANFORD PINNA</author>
+<rank>5</rank>
+<date>Aug 16, 2014</date>
+<content>
+Coke is making a big mistake on this one.As Seaworld stock plummets because People Do Care about animalsand kids, we may see Coke drop as well.
+</content>
+</comment>
+
+<comment>
+<ID>6</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>91</linkedArticle>
+<answers>0</answers>
+<author>Patrick Brown</author>
+<rank>5</rank>
+<date>Aug 16, 2014</date>
+<content>
+ Smart move, different category that Coke has no experience in. There are still potential legal liabilities for this whole category of drink, as well as it being just another potential fad.
+</content>
+</comment>
+

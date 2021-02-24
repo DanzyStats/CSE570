@@ -1,0 +1,42 @@
+<comment>
+<ID>1</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>85</linkedArticle>
+<answers>0</answers>
+<author>Steve Paul</author>
+<rank>5</rank>
+<date>Nov 7, 2014</date>
+<content>
+So goes Berkeley and so goes California and so goes USA.What ever happened to "if you like your soda you can keep your soda."The march Left continues.
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>85</linkedArticle>
+<answers>0</answers>
+<author>William Ford</author>
+<rank>5</rank>
+<date>Nov 6, 2014</date>
+<content>
+"...the Center for Science in the Public Interest, a consumer health group..."Key word missing here; It should read: "...the Liberal Center for Science in the Public Interest, a consumer health group..."
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>85</linkedArticle>
+<answers>0</answers>
+<author>Henry Lyczak</author>
+<rank>5</rank>
+<date>Nov 6, 2014</date>
+<content>
+ On the next Berkeley ballot will be a tax on sugary thoughts.
+</content>
+</comment>
+

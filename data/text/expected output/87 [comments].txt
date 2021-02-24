@@ -1,0 +1,42 @@
+<comment>
+<ID>1</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>87</linkedArticle>
+<answers>0</answers>
+<author>Emily Baumann</author>
+<rank>5</rank>
+<date>Nov 3, 2014</date>
+<content>
+Meanwhile the feds are subsidizing sugar farmers to protect them from world market oversupply compaction. Government knows best. 
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>87</linkedArticle>
+<answers>0</answers>
+<author>MJ Taylor</author>
+<rank>5</rank>
+<date>Nov 3, 2014</date>
+<content>
+There are already considerable taxes on alcohol in most if not all states. See: http://www.taxpolicycenter.org/taxfacts/displayafact.cfm?Docid=349. @Virginia Nichols
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>Wall Street Journal</newspaper>
+<newspaperType>National</newspaperType>
+<linkedArticle>87</linkedArticle>
+<answers>0</answers>
+<author>Virginia Nichols</author>
+<rank>5</rank>
+<date>Nov 3, 2014</date>
+<content>
+Interesting that the tax is on 'non alcoholic beverages".There's lots of calories in beer andmixed drinks, the uproarif they were taxed would be much larger. 
+</content>
+</comment>
+

@@ -1,0 +1,1022 @@
+<comment>
+<ID>1</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>prophet81</author>
+<rank>22570</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+The Beverage Association of America has poured close to eight million
+dollars to defeat the critically important Prop E in San Francisco, which would help put our children and adults with limited access to nutritious food on the path to better health and reduce our healthcare tax burden. There is no debating that! Please help demonstrate that the power of individual voice is still stronger than the power of corporate dollars by voting 'Yes' on Prop E.
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>MrReid</author>
+<rank>27378</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+I love how people can argue their right to an independent, autonomous decision (i.e. NO NANNY STATE) when they live in a world that is constantly spoon-feeding them ads that inform their decisions. Get real. This is a small fee to discourage (not ban) soda consumption. Soda leads to diabetes. Diabetes is bad. The end.
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>anominus</author>
+<rank>26327</rank>
+<likes>0</likes>
+<answers>2</answers>
+<content>
+ It's also a small fee to cover the costs of healthcare that arise when people regularly drink it. Diabetes is real, and hitting people younger and younger. It is unfortunate, however, that the companies making, selling, and advertising the soda don't have to pay this cost, as it will disproportionately affect the poor, the cost and the illness associated with the sugary drinks.
+Not only is soda not a food, it may well be about as beneficial to consume as alcohol. Perhaps the companies... » more
+</content>
+</comment>
+
+<comment>
+<ID>4</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>BernalBulldog</author>
+<rank>495</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Ed Lee only has a strong opinion when it comes to developers, unions and praising the Chinese. You know the Chinese that the head of the U.S. FBI stated last night on 60 Minutes is the biggest cyber threat to the U.S.
+As far as the SF BOSers taxing sodas I say why stop there? Elected officials of SF simply would like to take ALL the money and real estate away from ALL San Franciscans. The sad thing is that even if they did that it would still not be enough to cover their socialist agendas.... » more
+</content>
+</comment>
+
+<comment>
+<ID>5</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Lauranix</author>
+<rank>23266</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Kudos to Heather Knight for investigating the false claims from No on E. It's great to see journalists exposing some of their underhanded tactics. This issue is too important to let self-interested soda companies stand in the way of making sure kids can grow up healthy.
+</content>
+</comment>
+
+<comment>
+<ID>6</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>charley_sf</author>
+<rank>4642</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+The money people are arguing that we need to quash disclosure as it endangers those who exercise their first amendment rights, and if they get their 5th Justice, the Court may just adopt their point of view. So remember, Elections Matter.
+</content>
+</comment>
+
+<comment>
+<ID>7</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>RobinAnita</author>
+<rank>8043</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Thanks for explaining everything, Mr. Peck. Just that - Soda is not "food", nor is it "groceries." By the way, many commenters are just voicing their opinions here, but for those who are paid by the ABA, what's the going rate? Just curious. I hear that anti-soda tax precinct walkers get $15 an hour in Berkeley; dietitians working for the Corn refiners and soda companies are paid to tweet against national soda taxes (see http://www.weightymatters.ca/2014/08/meet-7-registered-dietitians.html),... » more
+</content>
+</comment>
+
+<comment>
+<ID>8</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>TaylorzHaus</author>
+<rank>16727</rank>
+<likes>2</likes>
+<answers>0</answers>
+<content>
+Hi All, Taylor Peck here (mentioned above)...Maybe a little late to weigh in on this, and I do appreciate Heathers kinda snarky writing style, fun to read...but in fairness, I did get misquoted/misrepresented twice to help the author build the vindictive tone in the article... First, I didn't say 'i wonder why SF is so concerned about childhood obesity'...what monster would say that? Certainly not I. I did say using childhood obesity as the banner to tax a range of grocery products far beyond... » more
+</content>
+</comment>
+
+<comment>
+<ID>9</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>sunsetmom</author>
+<rank>117</rank>
+<likes>1</likes>
+<answers>8</answers>
+<content>
+ Although you were misquoted, there is a point to be made about why a city with more dogs than children is trumpeting this tax as being about childhood obesity.
+Its just about a tax. And the funds it generates will supposedly be restricted to supporting 'childhood health programs' but it does not mean that any funds already being used for these programs isn't up for grabs.
+Its a bait and switch, with a feel good message (its for the children!) but is nothing more than a revenue... » more
+</content>
+</comment>
+
+<comment>
+<ID>10</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>tireddaddy</author>
+<rank>1835</rank>
+<likes>0</likes>
+<answers>8</answers>
+<content>
+There's a lot of sugar in coconut water, too: read the label. It might not be added sugar, but it's there. Just in case you thought coconut water was, like, miraculously healthy or something.
+</content>
+</comment>
+
+<comment>
+<ID>11</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>tireddaddy</author>
+<rank>1835</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Also, I see plenty of kids in the City. Just because the current crop of glamorous, self-absorbed, twenty-something techies and financial whiz kids think SF is their own personal playground doesn't mean the rest of us don't live here as well.
+</content>
+</comment>
+
+<comment>
+<ID>12</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>JCordeiro</author>
+<rank>15439</rank>
+<likes>1</likes>
+<answers>8</answers>
+<content>
+ You seem like a nice guy, and very sincere. However, you happen to own SPECIALTY drink stores... the only two in SF. You don't represent the typical store owner, not even the typical corner store owner who makes money off a variety of products, not exclusively sugary drinks like you do. Also, the sodas you sell are quite expensive...who shops in your store? I bet folks who can afford your products are willing to pay an extra 25cents for your specialty sodas. I can respect your... » more
+</content>
+</comment>
+
+<comment>
+<ID>13</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>TaylorzHaus</author>
+<rank>16727</rank>
+<likes>1</likes>
+<answers>12</answers>
+<content>
+ Hi J! Gotcha/I hear you. We do also sell bubbly waters and stevia drinks (our diet section has 200 choices! Although it makes up <15% of our total sales). Our profits wont be affected by this proposition as this is a pass-through grocery tax. It affects all shoppers. (And our customers are a mixed bag of age/ethniticity/income bracket...our block on Mission street is thankfully diverse). Consider also, I am first and foremost personally a customer/consumer in SF on a severely... » more
+</content>
+</comment>
+
+<comment>
+<ID>14</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>MrReid</author>
+<rank>27378</rank>
+<likes>0</likes>
+<answers>13</answers>
+<content>
+ dude. have you even read the legislation or do you just regurgitate talking points?
+</content>
+</comment>
+
+<comment>
+<ID>15</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Peninsula_Dude</author>
+<rank>1072</rank>
+<likes>2</likes>
+<answers>0</answers>
+<content>
+"So surely Mayor Ed Lee played some kind of role in that or at least has a strong opinion on it?
+Uh, nope. (We’re beginning to wonder if Lee has ever had a strong opinion about anything.)"
+To be fair, Rose hasn't given little eddie his opinion yet. It comes with his allowance...
+</content>
+</comment>
+
+<comment>
+<ID>16</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ericaetelson</author>
+<rank>13264</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+Taxing soda is an idea whose time has come - imagine where we'd be today if we hadn't started taxing cigarettes in the 1970s or if we didn't have seat belt laws. Libertarians may bristle but I'm sure most progressive San Franciscans understand that government can play a constructive role in discouraging harmful habits. A soda tax worked to bring down soda consumption in Mexico and it will work here. Yes on E!
+</content>
+</comment>
+
+<comment>
+<ID>17</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Peninsula_Dude</author>
+<rank>1072</rank>
+<likes>2</likes>
+<answers>16</answers>
+<content>
+ - soda already gets taxed as a purchase. Perhaps a kale tax because corporate farming is "bad" should also be allowed.
+No on mindless idiots trying to create a nanny state.
+</content>
+</comment>
+
+<comment>
+<ID>18</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ilikeitwarm</author>
+<rank>193</rank>
+<likes>4</likes>
+<answers>16</answers>
+<content>
+ Tax had little impact on smoking.
+</content>
+</comment>
+
+<comment>
+<ID>19</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>marley</author>
+<rank>311</rank>
+<likes>5</likes>
+<answers>0</answers>
+<content>
+Vote straight Democrat as instructed on the postcards to raise your taxes 4 different ways and add more debt to this State and City 6 different ways. You are sheep, these people know best for you; sure the Sheriff had that domestic abuse episode but the Democratic Political Ruling Class put him in office and he will stay there; do not engage in ThoughtCrime. These people will tell you what to eat, who should rule over you and what property you may retain; if you were not so ignorant you could... » more
+</content>
+</comment>
+
+<comment>
+<ID>20</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>IPredictARiot</author>
+<rank>235</rank>
+<likes>4</likes>
+<answers>19</answers>
+<content>
+Ah, the classic, paranoid-delusional ramblings of a Conservative.
+Can't imagine why nobody wants to sign on to your party's platform.
+</content>
+</comment>
+
+<comment>
+<ID>21</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>slouise541</author>
+<rank>12293</rank>
+<likes>2</likes>
+<answers>19</answers>
+<content>
+ okay, okay, wipe the spit off your chin, you can still bring your six packs to your tea party rallies. Just buy them at your neighborhood walmart.
+</content>
+</comment>
+
+<comment>
+<ID>22</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>RobinAnita</author>
+<rank>8043</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Fascinating that Mr. Peck, the ABA's poster child, thinks soda taxes are good enough for Richmond but not for SF. Are Richmond's kids more deserving than the more than 100,000 children who live in San Francisco? Are the alarming number of folks in SF's hospitals awaiting kidney transplants and amputations less important than those suffering from diabetes in Richmond? (See http://www.sfgate.com/default/article/Vote-yes-for-San-Francisco-soda-tax-5801052.php)
+Mr. Peck, whose side are you on?... » more
+</content>
+</comment>
+
+<comment>
+<ID>23</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Peninsula_Dude</author>
+<rank>1072</rank>
+<likes>0</likes>
+<answers>22</answers>
+<content>
+ - Consumption has less to do with this than activity. Going to tax people who don't get their exercise cards punched next?
+Marketing shmarketing -- it's bad parents who want to be their kids 'friend' more than they want to parent. Going to tax that as well?
+</content>
+</comment>
+
+<comment>
+<ID>24</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>sunsetmom</author>
+<rank>117</rank>
+<likes>0</likes>
+<answers>22</answers>
+<content>
+ Can you provide a citation about he 77% of teens drinking a coke EVERY DAY. That seems like a stretch and it would be interesting to see the basis for that number.
+And even if they are, its UP TO THEM.
+Life is risky. There are many foods that are terrible for us, should we tax them all?
+Regrading the 'earmark' for Rec and Park, etc, do you really think those thing will see more money? Or just have their general budget funds that are already paying for these things raided for... » more
+</content>
+</comment>
+
+<comment>
+<ID>25</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>TaylorzHaus</author>
+<rank>16727</rank>
+<likes>0</likes>
+<answers>22</answers>
+<content>
+ Hi R- All good. I appreciate the opportunity for dialogue. Heather got the nuance of my conversations mildly crossed. Anyhow, What I said about Richmond is that possibly the volume consumed should be considered versus the nature of the product. I was pointing out you get less benefit from taxing a single soda but allow someone to drink quart of apple juice tax free. Sugar is sugar, and should be consumed in moderation (example: all items in our store are 12oz or less). Further, with... » more
+</content>
+</comment>
+
+<comment>
+<ID>26</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>jeschoettgen</author>
+<rank>584</rank>
+<likes>6</likes>
+<answers>0</answers>
+<content>
+All this talk about soda and the problems it causes and we neglect the bigest killer of all. It is one we are all faced with and yet we do nothing about it. I really think we should not tax soda but tax the real killer, old age. That is right. Old age causes more deaths than all of the bad foods combines. If we can just tax it maybe it will go away.
+</content>
+</comment>
+
+<comment>
+<ID>27</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ziggyman</author>
+<rank>738</rank>
+<likes>8</likes>
+<answers>0</answers>
+<content>
+Children's anti-obesity programs? Is that not the responsibility of the parents? Since when does he government have to be in the child raising business?
+</content>
+</comment>
+
+<comment>
+<ID>28</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>jeschoettgen</author>
+<rank>584</rank>
+<likes>2</likes>
+<answers>27</answers>
+<content>
+ In a perfet World yes, but when parents fail to do their job and that failure cost society millions of dollars in healthcare costs then it becomes the job of the government to protect the greater good from these extra costs. Now the only question is how good of a job does government do?
+</content>
+</comment>
+
+<comment>
+<ID>29</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>slouise541</author>
+<rank>12293</rank>
+<likes>3</likes>
+<answers>20</answers>
+<content>
+ you have no clue what you're talking about.
+</content>
+</comment>
+
+<comment>
+<ID>30</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Peninsula_Dude</author>
+<rank>1072</rank>
+<likes>4</likes>
+<answers>28</answers>
+<content>
+ - A tax isn't going to help anyone. Do you HONESTLY believe that some wasteful government program is going to truly help kids?
+You're deluding yourself if you think so...
+</content>
+</comment>
+
+<comment>
+<ID>31</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Jeffritterman</author>
+<rank>21293</rank>
+<likes>2</likes>
+<answers>0</answers>
+<content>
+The science is unequivocal. Soda Taxes, like in Mexico, lower consumption which leads to less diabetes and fewer amputations. SF's own Dr. Bibbins-Domingo at SF General has shown that soda taxes will improve the health of the African American and Latino Communities. Soda Taxes are better for everyone except Big Soda. Dr. Jeff Ritterman
+</content>
+</comment>
+
+<comment>
+<ID>32</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Cityfool1</author>
+<rank>748</rank>
+<likes>3</likes>
+<answers>31</answers>
+<content>
+By your logic then diet sugar free sodas should be tax free and the taxes on natural sugar containing juices should equal that of sugared soda.
+</content>
+</comment>
+
+<comment>
+<ID>33</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ilikeitwarm</author>
+<rank>193</rank>
+<likes>3</likes>
+<answers>31</answers>
+<content>
+ What science?
+</content>
+</comment>
+
+<comment>
+<ID>34</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>RobinAnita</author>
+<rank>8043</rank>
+<likes>1</likes>
+<answers>33</answers>
+<content>
+ Anyone asking "what science" within a month of the election has had their head in the sand for the last 20 years. Sodas and sugary drinks are direct contributors to the preventable diabetes and obesity epidemics; are the single largest source of added sugars in the American diet; have been linked to a host of other health problems including heart disease, liver disease, tooth decay and metabolic syndrome; and should be recognized for their harmful side effects - just like... » more
+</content>
+</comment>
+
+<comment>
+<ID>35</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>fennario4899</author>
+<rank>39</rank>
+<likes>1</likes>
+<answers>33</answers>
+<content>
+ It's part of the same science that says humans are causing the planet to warm, so you'd best ignore it.
+</content>
+</comment>
+
+<comment>
+<ID>36</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Peninsula_Dude</author>
+<rank>1072</rank>
+<likes>0</likes>
+<answers>34</answers>
+<content>
+ - If this were true, then millions of athletes and athletic types would also fall victim. hey don't -- know why? Exercise...
+</content>
+</comment>
+
+<comment>
+<ID>37</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ilikeitwarm</author>
+<rank>193</rank>
+<likes>2</likes>
+<answers>34</answers>
+<content>
+ I have looked at the science. Whenever you see the word "linked" it means there is not a cause and effect relationship. But I would agree that too much sugar is not good for you. A tax will not cure any of the things you mention.
+</content>
+</comment>
+
+<comment>
+<ID>38</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ilikeitwarm</author>
+<rank>193</rank>
+<likes>1</likes>
+<answers>34</answers>
+<content>
+ BTW sugar consumption has not change in 50+ years; it is just consumed in other forms. In my day we drank more kool aide and lemon aide.
+</content>
+</comment>
+
+<comment>
+<ID>39</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Jeffritterman</author>
+<rank>21293</rank>
+<likes>0</likes>
+<answers>38</answers>
+<content>
+ The data is looking very causal given the feeding studies by Stanhope at UC Davis showing that sugary drinks lead to increases in triglycerides, harmful cholesterol (small dense LDL particles), decreases in protective cholesterol (HDL) and increases in liver fat all within two weeks. And sugar consumption has markedly increased if you add sucrose and HFCS and all other sugars together.
+</content>
+</comment>
+
+<comment>
+<ID>40</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ender_of_sf</author>
+<rank>344</rank>
+<likes>7</likes>
+<answers>0</answers>
+<content>
+This soda tax is nothing more than a way for the City to extort more money to spend. I never drink the stuff, but think this a very bad idea.
+</content>
+</comment>
+
+<comment>
+<ID>41</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>IPredictARiot</author>
+<rank>235</rank>
+<likes>0</likes>
+<answers>40</answers>
+<content>
+So whom, pray tell, should shoulder the expense of our childhood obesity epidemic? Keep in mind that in many cases, parents cannot pay for the cost of their child's obesity.
+Seems to me the expense should be borne by those who consume the biggest causes of obesity, and should leave the rest of us water-drinkers alone. Do you not agree?
+</content>
+</comment>
+
+<comment>
+<ID>42</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>slouise541</author>
+<rank>12293</rank>
+<likes>3</likes>
+<answers>41</answers>
+<content>
+ I'd suggest that you try to educate yourself before you speak but I'm getting the sense that your ability to understand these issues is very limited.
+</content>
+</comment>
+
+<comment>
+<ID>43</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Peninsula_Dude</author>
+<rank>1072</rank>
+<likes>0</likes>
+<answers>41</answers>
+<content>
+ - They pay for the food -- they can pay for the obesity...
+</content>
+</comment>
+
+<comment>
+<ID>44</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ilikeitwarm</author>
+<rank>193</rank>
+<likes>2</likes>
+<answers>41</answers>
+<content>
+ A tax will not cure obesity.
+</content>
+</comment>
+
+<comment>
+<ID>45</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>lovefelines</author>
+<rank>1429</rank>
+<likes>7</likes>
+<answers>0</answers>
+<content>
+The American public is, apparently, considered by SF (and Berkeley with its measure D) too dumb to be able to make its own food and drink decisions. Therefore, we must all pay a penalty. No use arguing with Mommy.
+</content>
+</comment>
+
+<comment>
+<ID>46</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>RobinAnita</author>
+<rank>8043</rank>
+<likes>1</likes>
+<answers>45</answers>
+<content>
+ The American Pubic, especially the SF and Berkeley Public, is too smart to vote NO on this measure, as we will see come election day.
+</content>
+</comment>
+
+<comment>
+<ID>47</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>IPredictARiot</author>
+<rank>235</rank>
+<likes>0</likes>
+<answers>45</answers>
+<content>
+Yes, heaven FORBID people who consume massive amounts of soda should carry a larger share of the public burden caused by obesity.
+Why do you oppose personal responsibility?
+</content>
+</comment>
+
+<comment>
+<ID>48</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Peninsula_Dude</author>
+<rank>1072</rank>
+<likes>0</likes>
+<answers>46</answers>
+<content>
+ - LOL! That's right -- because only progressive SMART PEOPLE know the way...
+</content>
+</comment>
+
+<comment>
+<ID>49</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>AbeRuef</author>
+<rank>27</rank>
+<likes>2</likes>
+<answers>0</answers>
+<content>
+"We’re beginning to wonder if Lee has ever had a strong opinion about anything."
+Beginning???
+</content>
+</comment>
+
+<comment>
+<ID>50</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>RobinAnita</author>
+<rank>8043</rank>
+<likes>0</likes>
+<answers>49</answers>
+<content>
+ We are beginning to wonder if Taylor Peck has a strong opinion about anything.
+</content>
+</comment>
+
+<comment>
+<ID>51</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>SuaveDuck</author>
+<rank>13</rank>
+<likes>6</likes>
+<answers>0</answers>
+<content>
+Sugary soda is unhealthful but so is onerous taxation.
+We need intelligent purchasing, not another tax. Just buy diet pop instead.
+Too bad SF leftists think there's a tax-raising cure for everything.
+</content>
+</comment>
+
+<comment>
+<ID>52</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ilikeitwarm</author>
+<rank>193</rank>
+<likes>1</likes>
+<answers>51</answers>
+<content>
+ It will cure obesity and there will no longer be a need to pay for expensive diet schemes; we will save money and everyone will be skinny.
+</content>
+</comment>
+
+<comment>
+<ID>53</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>LongerView</author>
+<rank>1221</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+The last "Great Debate" in the USA was the Scopes Trial. Eventually sugar laden soda will become another past memory of the American landscape because the parents and eventually the Federal Congress will realize what any physician worth her salt knows Type II diabetes is a huge cost to the future of the afflicted and our society.
+</content>
+</comment>
+
+<comment>
+<ID>54</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>sun_and_wind</author>
+<rank>424</rank>
+<likes>2</likes>
+<answers>0</answers>
+<content>
+Well educated and well-to-do folks consume much less soda drinks than poor folks and that is the fact. So, who is paying the tax?
+</content>
+</comment>
+
+<comment>
+<ID>55</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>jeschoettgen</author>
+<rank>584</rank>
+<likes>0</likes>
+<answers>54</answers>
+<content>
+ Well that is the idea. It is not a tax for the income more then it is a sin tax, to get people to use less. So the fact it will cost the poor a greater % of their income it will maybe make them buy less soda. If they spend less on soda they will have more money for potato chips, and then we can tax that and.......................
+</content>
+</comment>
+
+<comment>
+<ID>56</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>raydonovan</author>
+<rank>316</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+Gascon enjoys partnering with other far left District Attorneys. Going soft on unlicensed drivers. Drivers with suspended and revoked licenses. And as discussed the auto burglary problem in SF. And now Uber. Is there no gang/shooting problem in the Hunters Point/Bayview, Mission District, Ingelside District, Hayes Valley, and the list goes on.
+</content>
+</comment>
+
+<comment>
+<ID>57</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>jonb481</author>
+<rank>125</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+I hope Gascon is not trying to position himself to run for Mayor.
+</content>
+</comment>
+
+<comment>
+<ID>58</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ilikeitwarm</author>
+<rank>193</rank>
+<likes>3</likes>
+<answers>0</answers>
+<content>
+The soda tax is a cure for obesity. We will save thousands of dollars on fad diets. The fat industry will crumble and we will all live longer. What's not to like!
+</content>
+</comment>
+
+<comment>
+<ID>59</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>SuaveDuck</author>
+<rank>13</rank>
+<likes>5</likes>
+<answers>58</answers>
+<content>
+I detect sarcasm or a dream.
+</content>
+</comment>
+
+<comment>
+<ID>60</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>lovefelines</author>
+<rank>1436</rank>
+<likes>0</likes>
+<answers>58</answers>
+<content>
+ "The soda tax is a cure for obesity"???? Seriously? have you actually read and understood any of the scientific literature on the subject? Do you really believe that "the fat industry" produces soda? Your comment begs too many questions to get anything more than this kind of response.
+</content>
+</comment>
+
+<comment>
+<ID>61</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>RobinAnita</author>
+<rank>8043</rank>
+<likes>1</likes>
+<answers>60</answers>
+<content>
+ To reduce soda consumption and lower these staggering rates of diabetes (40% of kids will develop diabetes in their lifetime - a national embarrassment), those concerned with the public's health need to use all of the tools available to them - soda warning labels, excise taxes, getting sugary drinks out of schools, etc. Education alone does not work. Education combined with policy works well.
+</content>
+</comment>
+
+<comment>
+<ID>62</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ilikeitwarm</author>
+<rank>193</rank>
+<likes>0</likes>
+<answers>59</answers>
+<content>
+ Sarc!
+</content>
+</comment>
+
+<comment>
+<ID>63</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>force2drinkswil</author>
+<rank>232</rank>
+<likes>2</likes>
+<answers>0</answers>
+<content>
+There's always beer
+</content>
+</comment>
+
+<comment>
+<ID>64</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>SuaveDuck</author>
+<rank>13</rank>
+<likes>2</likes>
+<answers>63</answers>
+<content>
+Our local Anchor Steam is excellent.
+</content>
+</comment>
+
+<comment>
+<ID>65</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>SuaveDuck</author>
+<rank>13</rank>
+<likes>9</likes>
+<answers>0</answers>
+<content>
+Too much sugar is bad for us.
+Also true that too many taxes are bad for us.
+The tax code should not be used for social engineering.
+Vote NO on E because it's a sugarcoated money grab!
+</content>
+</comment>
+
+<comment>
+<ID>66</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>raydonovan</author>
+<rank>316</rank>
+<likes>6</likes>
+<answers>65</answers>
+<content>
+ Just had a butterfinger candy bar. I think they are next on the list for some darn obseity program. How about the old adage, Food in food out. Too many calories will make you a fatso. Can anyone disgest that and not blame Coke and Pepsi????????????
+</content>
+</comment>
+
+<comment>
+<ID>67</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>SuaveDuck</author>
+<rank>13</rank>
+<likes>6</likes>
+<answers>66</answers>
+<content>
+Nanny state has no limit, and that's the REAL problem.
+</content>
+</comment>
+
+<comment>
+<ID>68</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>Cityfool1</author>
+<rank>748</rank>
+<likes>8</likes>
+<answers>0</answers>
+<content>
+Tax Farm
+I am a serf on a tax farm.
+Nearly fifty percent of my wage
+Is taken away.
+How much more need I pay?
+Before I become a slave.
+</content>
+</comment>
+
+<comment>
+<ID>69</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>jeschoettgen</author>
+<rank>584</rank>
+<likes>0</likes>
+<answers>68</answers>
+<content>
+ Sounds to me like you need a new accountant.
+</content>
+</comment>
+
+<comment>
+<ID>70</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>hardlinemike</author>
+<rank>891</rank>
+<likes>12</likes>
+<answers>0</answers>
+<content>
+Soda tax, another cash cow for the government. Don't believe the c**p about protecting us from ourselves. It's the government telling you they know what is good for you and you are incapable of making sound choices. Just follow the money, baby!
+</content>
+</comment>
+
+<comment>
+<ID>71</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>100</linkedArticle>
+<author>ilikeitwarm</author>
+<rank>193</rank>
+<likes>1</likes>
+<answers>70</answers>
+<content>
+ Sin taxes are easier to pass than other taxes.
+</content>
+</comment>
+

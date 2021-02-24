@@ -1,0 +1,54 @@
+<comment>
+<ID>1</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>131</linkedArticle>
+<answers>0</answers>
+<author>jamesbutler75 </author>
+<content>
+I got a "No on D" flyer in the mail today. As soon as I read, "Paid for by the American Beverage Association PAC".... the answer was obvious.
+YES on D.
+We taxed cigarettes to save lives. It's time we do it with sugar water.
+</content>
+<likes>0</likes>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>131</linkedArticle>
+<answers>1</answers>
+<author>quow </author>
+<content>
+Don't delude yourself, please. This tax will not save a single life. People will eat their sugar one way or another, especially if only SOME OF IT is exempted (yes, the drinks being taxed are chosen arbitrarily.) It is quite simply a paternal, regressive tax. The money collected will just go to the city, so it isn't funding public wellness programs. If you want to be able to say you're fighting the obesity epidemic, you'll have to look to one of the other hundreds of methods which are actually effective and don't unfairly target one demographic. The city just wants more money, so it can continue to spend our dollars in the fruitless ways it has been for quite awhile now. If you're not convinced, I'd be happy to continue discussing the subject.
+</content>
+<likes>0</likes>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>131</linkedArticle>
+<answers>2</answers>
+<author>jamesbutler75 </author>
+<content>
+I'm very glad the electorate has chosen to tax cigarettes, partly because it is a discouragement. I'll be equally glad when the electorate chooses to tax sugar water as a discouragement.
+</content>
+<likes>0</likes>
+</comment>
+
+<comment>
+<ID>4</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>131</linkedArticle>
+<answers>3</answers>
+<author>quow </author>
+<content>
+That's fine for you to think, but as I stated in previously, the demographic that is most abusing the product will not be deterred from buying it. You're effectively charging poorer, obese citizens more for buying their groceries when you should be educating them.
+</content>
+<likes>0</likes>
+</comment>
+

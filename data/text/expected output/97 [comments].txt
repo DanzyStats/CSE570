@@ -1,0 +1,190 @@
+<comment>
+<ID>1</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>emilulz</author>
+<rank>363</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+Everybody knows SF "progressive" groups are for sale to the highest bidder. Problem is the average person can never be the highest bidder.
+</content>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>fittenfine</author>
+<rank>4446</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+Does this tax apply to Diet Coke?
+</content>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>RobinAnita</author>
+<rank>8043</rank>
+<likes>0</likes>
+<answers>2</answers>
+<content>
+ No, just sugar-sweetened beverages.
+</content>
+</comment>
+
+<comment>
+<ID>4</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>RobinAnita</author>
+<rank>8043</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+Great Reporting, Heather! As for the Harvey Milk Club, with its progressive reputation, doesn't it have any original ideas of its own, rather than behaving as if dangling on the strings of American Beverage Association puppeteers? Vote for the SF Soda Tax; it will decrease consumption by 20% - 30% and raise up to $50 million for programs for children in health, education, and parks and recreation.
+</content>
+</comment>
+
+<comment>
+<ID>5</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>timtomb</author>
+<rank>2787</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+No
+</content>
+</comment>
+
+<comment>
+<ID>6</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>over8_stf</author>
+<rank>24009</rank>
+<likes>2</likes>
+<answers>0</answers>
+<content>
+Even though I don't live in SF, it's just ludicrous to impose a tax on sweetened beverages.
+We already pay a deposit on the bottle and a tax for the state.
+Just because some frickin' idiots that don't like soda, or can't think of any way to keep people from getting fat....doesn't mean that I should have to pay for it.
+No matter how much education you force on people, they are going to do what they want.
+I don't ant to pay for someone else's "education", or pay for anyone else's health care... » more
+</content>
+</comment>
+
+<comment>
+<ID>7</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>chasmader</author>
+<rank>2207</rank>
+<likes>0</likes>
+<answers>6</answers>
+<content>
+ As you do not live nor vote in SF, your opinion on local affairs is of little benefit (nobody gives a rats a$$ as to what I think about E Bay local government).
+</content>
+</comment>
+
+<comment>
+<ID>8</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>marycareysf</author>
+<rank>364</rank>
+<likes>1</likes>
+<answers>0</answers>
+<content>
+Have that 700 calorie burger with apple juice. You wont get fat.
+</content>
+</comment>
+
+<comment>
+<ID>9</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>force2drinkswil</author>
+<rank>232</rank>
+<likes>2</likes>
+<answers>0</answers>
+<content>
+"Buy a table -- Be a Hero"
+Lame a$$ political clubs. State cards = straight to the trash can....they foul recycling
+</content>
+</comment>
+
+<comment>
+<ID>10</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>timtomb</author>
+<rank>2787</rank>
+<likes>7</likes>
+<answers>0</answers>
+<content>
+My drinking soda should not be a money maker for the sf supervisors. Vote no
+</content>
+</comment>
+
+<comment>
+<ID>11</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>Nursereality</author>
+<rank>5414</rank>
+<likes>3</likes>
+<answers>0</answers>
+<content>
+Tax revenue to go to children's nutrition? Give me a break. Change the menu to healthy eating, stop renewing contracts to vendors that provide the sugary fruit juices in a bottle, premade food soaked in preservatives and additives. Let the lottery increase funding to schools to pay for this. The lottery was to help schools (supposedly)
+</content>
+</comment>
+
+<comment>
+<ID>12</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>over8_stf</author>
+<rank>24009</rank>
+<likes>1</likes>
+<answers>11</answers>
+<content>
+Right you are!
+We used to get full, home made meals in the cafeteria every day.
+Like a dinner at home, not some quick and easy snack they serve and call a healthy lunch now days!
+</content>
+</comment>
+
+<comment>
+<ID>13</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>97</linkedArticle>
+<author>aethelstan</author>
+<rank>2663</rank>
+<likes>2</likes>
+<answers>0</answers>
+<content>
+Funny article. Thanks.
+Former Mayor Willie Brown was the front man for the Beverage Association a few years ago when a similar measure was on the ballot in Richmond, so this really isn't that new or rare, but then Mr. Brown is the epitome of a Corporate Democrat.
+</content>
+</comment>
+

@@ -1,0 +1,26 @@
+<comment>
+<ID>1</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>132</linkedArticle>
+<answers>0</answers>
+<author>Western </author>
+<content>
+You know, riding BART for four hours a day makes my ass big. I propose we implement a Fat Ass Tax on landlords in downtown San Francisco. Either they can rent an apartment for a decent rate, or pay a hefty tax for forcing me to commute.
+</content>
+<likes>1</likes>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>132</linkedArticle>
+<answers>0</answers>
+<author>cohenfive </author>
+<content>
+Stupid, regressive, nanny state tax. Vote against. If you don't want kids to drink this stuff, just tell them not to.
+</content>
+<likes>2</likes>
+</comment>
+

@@ -1,0 +1,14 @@
+<comment>
+<ID>1</ID>
+<newspaper>San Francisco</newspaper>
+<newspaperType>Local</newspaperType>
+<linkedArticle>94</linkedArticle>
+<author>Prisoner_2012</author>
+<rank>893</rank>
+<likes>0</likes>
+<answers>0</answers>
+<content>
+The right-wing anti-democracy movements in Congress and our kangaroo kourt system have turned our government over to the highest bidders, a right-wing economic elitist mob who worship profits and find democracy and society obstacles in their thirst for wealth.
+</content>
+</comment>
+

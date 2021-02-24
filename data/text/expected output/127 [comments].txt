@@ -1,0 +1,52 @@
+<comment>
+<ID>1</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>127</linkedArticle>
+<answers>0</answers>
+<author>Thorn A. Fusco </author>
+<content>
+still a horrible idea. Liberal idea would be a soda size limit- that might actually get a few people to drink less soda too/ this TAX is the complete opposite of that/ NO direction for the revenue other than the general fund, this is simply a way for the City Council ot raise revenue without raising (progressive) proprietary taxes, and spend it however they wish. Ultimately it flattens the tax rate and hits the poor hardest- EXACTLY what the Tea Party and Republicans would like to see... How did the supposedly Liberal Berkeely City Council adopt such a patently Right wing idea? Why actually try and help people when we can just tax them under the guise of help? ... WORSE- anyone with a car could drive to a neighboring city, buy 3 2-liters of soda, and more than offset cost of gas be avoiding tax.. and while we're there might as well buy the rest of our groceries in another city and give that city our tax revenue./... it's basic math.. the tax will = 64 cents on a 2-liter.. worse, a stoer brand 2-liter only costs 79 cents to begin with, and juice is still $3-4..This law wont make healthy options more affordable. Maybe, in movie theaters or fast food joints, some might choose a slightly smaller option to avoid the tax- which will be interesting as how do you calculate how much is soda and how much is ice and now am i expected to pay tax on ice? A size limit would have made a lot more sense if we really wanted people to drink less soda. We really don't. The City just wants those poor people who buy cheap sodas rather than expensive organic juices to pay more taxes.. becasue we're already broke and not chipping in enough...
+</content>
+<likes>0</likes>
+</comment>
+
+<comment>
+<ID>2</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>127</linkedArticle>
+<answers>1</answers>
+<author>Joy Moore </author>
+<content>
+First, I am so happy we are having a discussion about the possibility of checking big soda, their motives and profits and the effects on our health as a community! As a citizen of Berkeley, and a great proponent of this measure, I want to assure all that this is not a city government driven measure. I am one of the people who has been advocated action to counter the effects of sugary beverages on our health since 1999. Tooth decay, which is crucial to overall health, obesity, which comes with a host of medical conditions, and diabetes which is so alarming I can't even wrap my mind around the health and economic consequences of consuming so many calories from sugary beverages. Also there is nothing in the measure that exempts organic beverages. If they are sweetened, organic or not, then they will be taxed at distribution, not at point of sale. I hope to educate people about the effects of sugary beverages on our health, and persuade people not to rely on sweetened beverages for calories. I want to encourage people instead to eat and obtain calories mostly from fresh produce, grains and nuts. This measure is but a first step! If neighboring cities fail to act as Berkeley has, it's okay. Hopefully with Berkeley as an example of the first city to pass such a measure, and I'm confident we will, I believe more communities will follow! We have to act now to say no to BIG SODA profits at the expense of a healthy city! Vote yes on Measure D! Please!
+</content>
+<likes>0</likes>
+</comment>
+
+<comment>
+<ID>3</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>127</linkedArticle>
+<answers>2</answers>
+<author>Thorn A. Fusco </author>
+<content>
+if you think taxing poor people and giving the money to City Council to do whatever it wants with is going to help people,. i have several bridges for sale. If you had any interest in educating people about sugary drinks, or making healthy drinks a better option, this law would be related to soda sizes, and/or generate funding to give education or poor people subsidies for healthy options. If you wanted to hurt "big soda" again, you would attach a size limit. This tax does ZERO to "hurt big soda" ./. it costs them nothing, changes nothing about size of a soda at fast food outlets, is a complete waste. Big Soda will laugh while the City Council rakes in dollars... until soda buyers figure out they only have to go next door to save a huge amount of money on their total grocery bill... the good news is poor folks wont be able to go to next town, rich folks will pay the tax without blinking.. Victory!
+</content>
+<likes>0</likes>
+</comment>
+
+<comment>
+<ID>4</ID>
+<newspaper>Contra Costa</newspaper>
+<newspaperType>State</newspaperType>
+<linkedArticle>127</linkedArticle>
+<answers>3</answers>
+<author>Thorn A. Fusco </author>
+<content>
+further, with a BMI of 27, and the ability to run 5 miles and lift over 200 libs, i would thank you to NOT tell me what to eat...
+</content>
+<likes>0</likes>
+</comment>
+
